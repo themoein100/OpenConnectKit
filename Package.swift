@@ -19,7 +19,7 @@ let package = Package(
         .target(
             name: "OpenConnectKit",
             dependencies: ["openconnect", "COpenConnectShim"],
-            linkerSettings: [.linkedLibrary("xml2"), .linkedLibrary("z")]
+            linkerSettings: [.linkedLibrary("xml2"), .linkedLibrary("z"), .linkedLibrary("iconv")]
         )
     ]
 )
