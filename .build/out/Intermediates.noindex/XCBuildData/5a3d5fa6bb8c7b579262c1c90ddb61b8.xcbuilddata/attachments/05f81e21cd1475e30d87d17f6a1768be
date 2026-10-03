@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Users/moein/openconnect-apple/package/.build/out/Intermediates.noindex/OpenConnectKit.build/Debug-iphonesimulator/OpenConnectKit-t.build/Objects-normal/arm64/OpenConnectKit-primary.dia",
+    "emit-module-dependencies" : "/Users/moein/openconnect-apple/package/.build/out/Intermediates.noindex/OpenConnectKit.build/Debug-iphonesimulator/OpenConnectKit-t.build/Objects-normal/arm64/OpenConnectKit-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/moein/openconnect-apple/package/.build/out/Intermediates.noindex/OpenConnectKit.build/Debug-iphonesimulator/OpenConnectKit-t.build/Objects-normal/arm64/OpenConnectKit-primary-emit-module.dia",
+    "pch" : "/Users/moein/openconnect-apple/package/.build/out/Intermediates.noindex/OpenConnectKit.build/Debug-iphonesimulator/OpenConnectKit-t.build/Objects-normal/arm64/OpenConnectKit-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/moein/openconnect-apple/package/.build/out/Intermediates.noindex/OpenConnectKit.build/Debug-iphonesimulator/OpenConnectKit-t.build/Objects-normal/arm64/OpenConnectKit-primary.swiftdeps"
+  },
+  "/Users/moein/openconnect-apple/package/Sources/OpenConnectKit/OpenConnectKit.swift" : {
+    "const-values" : "/Users/moein/openconnect-apple/package/.build/out/Intermediates.noindex/OpenConnectKit.build/Debug-iphonesimulator/OpenConnectKit-t.build/Objects-normal/arm64/OpenConnectKit.swiftconstvalues",
+    "dependencies" : "/Users/moein/openconnect-apple/package/.build/out/Intermediates.noindex/OpenConnectKit.build/Debug-iphonesimulator/OpenConnectKit-t.build/Objects-normal/arm64/OpenConnectKit.d",
+    "diagnostics" : "/Users/moein/openconnect-apple/package/.build/out/Intermediates.noindex/OpenConnectKit.build/Debug-iphonesimulator/OpenConnectKit-t.build/Objects-normal/arm64/OpenConnectKit.dia",
+    "index-unit-output-path" : "/OpenConnectKit.build/Debug-iphonesimulator/OpenConnectKit-t.build/Objects-normal/arm64/OpenConnectKit.o",
+    "llvm-bc" : "/Users/moein/openconnect-apple/package/.build/out/Intermediates.noindex/OpenConnectKit.build/Debug-iphonesimulator/OpenConnectKit-t.build/Objects-normal/arm64/OpenConnectKit.bc",
+    "object" : "/Users/moein/openconnect-apple/package/.build/out/Intermediates.noindex/OpenConnectKit.build/Debug-iphonesimulator/OpenConnectKit-t.build/Objects-normal/arm64/OpenConnectKit.o",
+    "swift-dependencies" : "/Users/moein/openconnect-apple/package/.build/out/Intermediates.noindex/OpenConnectKit.build/Debug-iphonesimulator/OpenConnectKit-t.build/Objects-normal/arm64/OpenConnectKit.swiftdeps",
+    "swiftmodule" : "/Users/moein/openconnect-apple/package/.build/out/Intermediates.noindex/OpenConnectKit.build/Debug-iphonesimulator/OpenConnectKit-t.build/Objects-normal/arm64/OpenConnectKit~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,4 @@
+module COpenConnect {
+    header "openconnect.h"
+    export *
+}

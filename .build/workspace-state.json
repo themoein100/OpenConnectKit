@@ -1,0 +1,33 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "kind" : {
+          "xcframework" : {
+
+          }
+        },
+        "packageRef" : {
+          "identity" : "package",
+          "kind" : "root",
+          "location" : "/Users/moein/openconnect-apple/package",
+          "name" : "package"
+        },
+        "path" : "/Users/moein/openconnect-apple/package/.build/artifacts/package/openconnect/openconnect.xcframework",
+        "source" : {
+          "checksum" : "75367b67697054dcd7eafb42552d529229394bd047121be29ee694b149127f97",
+          "type" : "remote",
+          "url" : "https://github.com/themoein100/OpenConnectKit/releases/download/v9.21.0/openconnect.xcframework.zip"
+        },
+        "targetName" : "openconnect"
+      }
+    ],
+    "dependencies" : [
+
+    ],
+    "prebuilts" : [
+
+    ]
+  },
+  "version" : 7
+}

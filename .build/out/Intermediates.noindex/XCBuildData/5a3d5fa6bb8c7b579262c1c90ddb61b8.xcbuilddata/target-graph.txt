@@ -1,0 +1,11 @@
+Target dependency graph (4 targets)
+Target 'AllExcludingTests' in project 'Aggregate'
+➜ Explicit dependency on target 'OpenConnectKit-product' in project 'OpenConnectKit'
+➜ Explicit dependency on target 'OpenConnectKit' in project 'OpenConnectKit'
+➜ Explicit dependency on target 'COpenConnectShim' in project 'OpenConnectKit'
+Target 'OpenConnectKit-product' in project 'OpenConnectKit'
+➜ Explicit dependency on target 'OpenConnectKit' in project 'OpenConnectKit'
+➜ Explicit dependency on target 'COpenConnectShim' in project 'OpenConnectKit'
+Target 'OpenConnectKit' in project 'OpenConnectKit'
+➜ Explicit dependency on target 'COpenConnectShim' in project 'OpenConnectKit'
+Target 'COpenConnectShim' in project 'OpenConnectKit' (no dependencies)

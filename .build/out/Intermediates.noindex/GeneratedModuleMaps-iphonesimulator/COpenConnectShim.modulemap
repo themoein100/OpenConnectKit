@@ -1,0 +1,4 @@
+module COpenConnectShim {
+umbrella "/Users/moein/openconnect-apple/package/Sources/COpenConnectShim/include"
+export *
+}
