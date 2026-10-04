@@ -8,11 +8,11 @@ let package = Package(
         .library(name: "OpenConnectKit", targets: ["OpenConnectKit"])
     ],
     targets: [
-        // libopenconnect 9.21 + OpenSSL 3.6.5, static, iOS device + simulator (arm64).
+        // libopenconnect 9.21 (+ DTLS startup patch) + OpenSSL 3.6.5, static, iOS device + simulator (arm64).
         .binaryTarget(
             name: "openconnect",
-            url: "https://github.com/themoein100/OpenConnectKit/releases/download/v9.21.0/openconnect.xcframework.zip",
-            checksum: "75367b67697054dcd7eafb42552d529229394bd047121be29ee694b149127f97"
+            url: "https://github.com/themoein100/OpenConnectKit/releases/download/v9.21.3/openconnect.xcframework.zip",
+            checksum: "e10dff0b9979feef3f05e4014832313b00ffa3e992a0ff13dbb0aaa07a19ee36"
         ),
         // Tiny C layer: formats libopenconnect's variadic progress callback, which Swift cannot implement.
         .target(name: "COpenConnectShim", dependencies: ["openconnect"]),
